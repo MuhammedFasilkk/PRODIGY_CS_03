@@ -10,6 +10,6 @@ It helps ensure that passwords meet security standards, making them resistant to
 
   
  1. **Clone the repository:**
-https://github.com/Mohammedsamihali/PRODIGY_CS_03.git
+https://github.com//MuhammedFasilkk/PRODIGY_CS_03.git
    ```bash
   
